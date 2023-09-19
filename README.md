@@ -10,7 +10,7 @@ seo:
 
 # 15-890 Computer Science Pedagogy
 
-## Welcome to 17-950 Crafting Software
+## Welcome to Computer Science Pedagogy
 
 This course is a broad introduction to Computer Science Pedagogy.  This course is targeted toward students who are interested in improving their ability to teach computer science and who are interested in the science of teaching and learning.  This course is primarily organized like a Ph.D.-level seminar on computer science pedagogy but with an extensive experiential component: Students will get substantial practice developing, implementing, and testing course materials as if the instructor of a college-level computer science course. Students will also gain experience writing and preparing teaching philosophy statements and will have the opportunity to develop and enrich their teaching portfolios for applying in the academic job market.
 
