@@ -21,7 +21,7 @@ For this class you should read:
 - From Tools From Teaching:
     - <https://drive.google.com/file/d/1IbJSGsxOXEUCWxWqpNFmOI0bqqZyNiRc/view>
 
-## Assignment: 
+## Assignment 
 
 After doing this reading, we would like you to answer the following questions (soft, 1 page limit). Submit on Canvas and be prepared to discuss in class.
 
