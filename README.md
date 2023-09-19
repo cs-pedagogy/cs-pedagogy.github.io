@@ -24,7 +24,7 @@ The course covers many topics related to pedagogy, including:
 - Education research and implementation science
 - Applications of cognitive science and social psychology to pedagogy
 
-[course calendar](calendar.md)
+[Course Calendar](calendar.md)
 
 ### Structure of the course 
 Meets once weekly the expectation for this course is in person. If you need to miss a class or are sick, please contact the instructors and we can connect you via Zoom.
