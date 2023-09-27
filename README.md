@@ -8,6 +8,10 @@ seo:
   name: Just the Class
 ---
 
+# Pardon Our Dust!
+This page is under development; we’re building it as we move through the semester. If you have questions reach out to Michael or Francheska.
+
+
 # 15-890 Computer Science Pedagogy
 
 ## Welcome to Computer Science Pedagogy
