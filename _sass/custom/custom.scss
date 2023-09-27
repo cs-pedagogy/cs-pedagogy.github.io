@@ -8,6 +8,13 @@
 @import 'staffer';
 
 // Overrides
+
+.site-header {
+  height: 240px;
+  max-height: 240px;
+  border-bottom: 1px solid #eeebee;
+} 
+
 code {
   font-size: 14px;
   padding: 0.2em 0.4em;
