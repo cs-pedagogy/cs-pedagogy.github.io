@@ -20,7 +20,7 @@ author: Michael Hilton and Franceska Xhakaj
 #baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://cmu-cs-pedagogy.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: "/assets/images/crafting_software_header_noBG.png"
+logo: "/assets/images/CSP_TypeOnly.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.6.1
