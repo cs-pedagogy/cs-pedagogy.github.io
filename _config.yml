@@ -21,7 +21,7 @@ author: Michael Hilton and Franceska Xhakaj
 url: 'https://cmu-cs-pedagogy.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/images/CSP_TypeOnly.png"
-favicon_ico: "/assets/images/CSP_Favicon.png"
+favicon_ico: "/assets/images/CSP_Favicon.ico"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.6.1
