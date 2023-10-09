@@ -41,3 +41,6 @@ What students had as an assignment: [Assignment 2](/assignments/hw2)
 - Things to discuss & highlight (that were common feedback given to students):
     - If you’re going to introduce a concept that you’re not going to explain yet, explicitly signposting that you’re going to explain it later can be helpful 
     - Try not to speak too quickly, try to pace yourself, and find spots to take a pause so people can absorb what you’ve said (e.g., pausing right before you switch to the next slide) 
+
+
+Computer Science Pedagogy Course Materials © 2023 by Michael Hilton, Françeska Xhakaj, Courtney Miller, and Charlie Garrod is licensed under Attribution 4.0 International 
