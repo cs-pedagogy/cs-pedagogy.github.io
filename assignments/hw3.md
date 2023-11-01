@@ -10,9 +10,9 @@ parent: Assignments
 ## Readings 
 
 For this class you should read:
-- From How Learning Works: 
-    - Chapter 4 How do Students Develop Mastery?
-    - Chapter 5 What Kind of Practice and Feedback Enhance Learning?
+- From _How Learning Works_: 
+    - Chapter 4: How do Students Develop Mastery?
+    - Chapter 5: What Kind of Practice and Feedback Enhance Learning?
 
 
 ## Assignment

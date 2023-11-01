@@ -10,12 +10,12 @@ parent: Assignments
 ## Readings 
 
 For this class you should read:
-- From How Learning Works: 
-    - Appendix C What Are Rubrics and How Can We Use Them?
+- From _How Learning Works_: 
+    - Appendix C: What Are Rubrics and How Can We Use Them?
 
-- From Tools For Teaching: 
-    - Chapter 43 [Grading Practices](https://drive.google.com/open?id=1wDbItaTmJTN9ZMp6GPg1lou4v4tW_6BC)
-    - Chapter 44 [Calculating and Assigning Grades](https://drive.google.com/open?id=1Qv2xOgSzcaYyernMj7Xq7yjSebORRS8m)
+- From _Tools For Teaching_: 
+    - Chapter 43: [Grading Practices](https://drive.google.com/open?id=1wDbItaTmJTN9ZMp6GPg1lou4v4tW_6BC)
+    - Chapter 44: [Calculating and Assigning Grades](https://drive.google.com/open?id=1Qv2xOgSzcaYyernMj7Xq7yjSebORRS8m)
 
 ## Assignment
 

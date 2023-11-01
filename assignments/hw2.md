@@ -11,10 +11,10 @@ parent: Assignments
 ## Readings 
 
 For this class you should read:
-- From How Learning Works: 
-    - Chapter 3 What Factors Motivate Students to Learn?
+- From _How Learning Works_: 
+    - Chapter 3: What Factors Motivate Students to Learn?
 
-- From Tools From Teaching:
+- From _Tools For Teaching_:
     - <https://drive.google.com/file/d/1IbJSGsxOXEUCWxWqpNFmOI0bqqZyNiRc/view?usp=sharing>
 
 - <https://medium.com/bits-and-behavior/how-to-design-a-class-a1c8b419b9f5>

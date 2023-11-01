@@ -10,15 +10,15 @@ parent: Assignments
 ## Readings 
 
 For this class you should read:
-- From Bain:
+- From _What the Best College Teachers Do_ by Bain:
     - Chapters 1,4
     - Epilogue and "How the study was conducted"
 
-- From How Learning Works: 
-    - Introduction Bridging Learning Research and Teaching
-    - Chapter 1 How Does Students’ Prior Knowledge Affect Their Learning?
+- From _How Learning Works_: 
+    - Introduction: Bridging Learning Research and Teaching
+    - Chapter 1: How Does Students’ Prior Knowledge Affect Their Learning?
 
-- From Tools From Teaching:
+- From _Tools For Teaching_:
     - <https://drive.google.com/file/d/1IbJSGsxOXEUCWxWqpNFmOI0bqqZyNiRc/view>
 
 ## Assignment 
