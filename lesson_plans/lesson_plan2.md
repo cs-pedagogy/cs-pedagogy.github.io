@@ -9,8 +9,7 @@ parent: Lesson Plans
 What students had as an assignment: [Assignment 1](/assignments/hw1)
 
 
-## [20 mins] Part 1: Discussion of Bain (Ch1, Ch4 and Epilogue)
-
+## [10 mins] Part 1: Discussion of Bain (Ch1, Ch4 and Epilogue)
 - CH1: How does Bain define the best? What examples does he bring of best teachers?
 - CH1: How would you define the best? What would be a teacher that was the best and why in your memory and that was the worst and why?
 - CH4: What do the best teachers expect of their students? How do they behave towards their students?
