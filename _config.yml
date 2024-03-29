@@ -18,7 +18,7 @@ tagline: 15-890 Computer Science Pedagogy
 description: Welcome to Computer Science Pedagogy
 author: Michael Hilton and Franceska Xhakaj
 #baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://cmu-cs-pedagogy.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://cs-pedagogy.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/assets/images/CSP_TypeOnly.png"
 favicon_ico: "/assets/images/CSP_Favicon.ico"
