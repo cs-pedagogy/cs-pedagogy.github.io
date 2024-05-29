@@ -15,7 +15,7 @@ What students had as an assignment: [Assignment 8](/assignments/hw8)
     - If you, as a lecturer, learn something and want to share, you need to be aware of the field. It can also be helpful to be able to evaluate research so you can determine what is useful 
     - Here at CMU, we have the Eberly Center who will parse research and share what is interesting and innovative, but not all universities have that
 - Situating the Field: 
-    - **Q**: In your own words (based on the Amy Co article), what is the difference between teaching and research? 
+    - **Q**: In your own words (based on the Amy Ko article), what is the difference between teaching and research? 
     - **Q**: What is the difference between CS and CER, according to Amy Ko/Guzdial? 
         - CS (more narrow, focused on specific topics) vs computing (more general, spanning a variety of issues) 
     - **CS/CER vs other DBR**
